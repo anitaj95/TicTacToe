@@ -112,6 +112,7 @@ public class TicTacToeLogic {
                 }
             }
         }
+        
         if (licznik == 0) {
             System.out.println("koniec gry");
             return true;
